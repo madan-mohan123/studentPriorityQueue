@@ -16,7 +16,7 @@ public class PriorityQueue {
 	    public void enqueue(Student object) {
 		        if(!isFull()){
 		            data[rear+1]=object;
-		            rear++;
+		            rear++; 
 		            front=0;
 		            sorting(); 
 		            System.out.println(object.getName()+ " is successfully inserted in queue ");
