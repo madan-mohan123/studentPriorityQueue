@@ -13,7 +13,7 @@ public void insert(int data) {
 	if(root==null) {
 		root=node;
 	}
-	else {
+	else { 
 		TreeNode temp=root;
 		TreeNode parent=null;
 		while(temp!=null) {
