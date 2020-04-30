@@ -18,7 +18,7 @@ public class TreeNode {
 	public TreeNode getRight() {
 		return right;
 	}
-	public void setData(int data) {
+	public void setData(int data) { 
 		this.data=data;
 	}
 	public void setLeft(TreeNode left) {
