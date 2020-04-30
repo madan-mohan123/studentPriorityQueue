@@ -6,7 +6,7 @@ public class BinaryTreeMain {
 		BinarySearchTree ob=new BinarySearchTree();
 		ob.insert(40);
 		ob.insert(50);
-		ob.insert(30);
+		ob.insert(30); 
 		ob.insert(20);
 		ob.insert(100);
 		ob.insert(90);
